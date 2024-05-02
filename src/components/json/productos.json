@@ -1,0 +1,41 @@
+[
+    {"id":1, "title":"JBL Tune Flex", "description": "Auriculares True Wireless con cancelación de ruido","price":139999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwe67edcb3/JBL_Tune%20Flex_Product%20Image_Hero_Black.jpg?sw=299&sh=299&sm=fit&sfrm=png", "stock":11, "category":"AuricularesInEar" },
+
+    {"id":2, "title":"JBL Tour Pro 2", "description": "Auriculares True Wireless con cancelación de ruido","price":399999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw77493435/1.JBL_Tour_Pro%202_Product%20Image_Hero_Black.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":12, "category":"AuricularesInEar"},
+
+    {"id":3, "title":"JBL Wave Flex", "description": "Auriculares de botón True Wireless","price":99999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw92f7de6f/1.JBL_Wave%20Flex_Product%20Image_Hero%2001_Black.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":16, "category":"AuricularesInEar" },
+
+    {"id":4, "title":"JBL Quantum TWS", "description": "Auriculares True Wireless para gaming con cancelación de ruido","price":263999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw02e0ee7a/1.JBL_Quantum%20TWS_Product%20Image_Hero.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":13, "category":"AuricularesInEar" },
+
+    {"id":5, "title":"Sony LinkBuds S", "description": "No te desconectes con los auriculares inalámbricos LinkBuds S de Sony. Los LinkBuds S tienen optimización del sonido ambiente y noise cancelling, además de ser pequeños y ligeros para llevarlos cómodamente todo el día.","price":290999, "image":"https://arsonyb2c.vtexassets.com/arquivos/ids/360515/01-Product-WF-LS900N-B.jpg?v=637998283164700000", "stock":16, "category":"AuricularesInEar" },
+
+    {"id":6, "title":"JBL Tune 720BT", "description": "Auriculares circumaurales inalámbricos","price":99999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwdcae1052/01.JBL_Tune%20720BT_Product%20Image_Hero_Black.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":19, "category":"AuricularesOnEar" },
+
+    {"id":7, "title":"JBL Tour One M2", "description": "Auriculares supraaurales inalámbricos con cancelación del ruido","price":499999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw8e5ac2e4/JBL_TOUR_One%20M2_Product%20Image_Hero_Black.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":13, "category":"AuricularesOnEar" },
+
+    {"id":8, "title":"JBL Tune 520BT", "description": "Auriculares inalámbricos supraaurales","price":69999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw7cdc8130/01.JBL_Tune%20520BT_Product%20Image_Hero_Blue.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":14, "category":"AuricularesOnEar" },
+
+    {"id":9, "title":"JBL Boombox 3", "description": "Altavoz portátil","price":759999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw98b9478c/1_JBL_BOOMBOX_3_HERO_BLACK_33216_x2.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":10, "category":"SonidoPortatil" },
+
+    {"id":10, "title":"JBL Partybox 310", "description": "Altavoz portátil para fiestas con iluminación y el potente sonido JBL Signature","price":1349999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc32588ab/JBL_PartyBox_310_Hero_0176_x3.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":6, "category":"SonidoPortatil" },
+
+    {"id":11, "title":"Onyx Studio 6", "description": "Parlante Harman Kardon Onyx Studio 6 Portátil Con Bluetooth","price":400000, "image":"https://www.harmankardon.com/dw/image/v2/BFND_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwf6c0d469/OnyxStudio6_Hero_Black_1605X1605.png?sw=300&sh=300", "stock":9, "category":"SonidoPortatil" },
+
+    {"id":12, "title":"JBL Flip 6", "description": "Altavoz portátil a prueba de agua","price":189999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwde3174c0/1_JBL_FLIP6_HERO_GREEN_29399_x1.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":8, "category":"SonidoPortatil" },
+
+    {"id":13, "title":"Sony MHC-V73D//M AR2", "description": "Sistema de audio de alta potencia V73D con tecnología BLUETOOTH®","price":1499999, "image":"https://arsonyb2c.vtexassets.com/arquivos/ids/359765/MHC-V73D-New--1000x1000-.jpg?v=637889080797600000", "stock":8, "category":"SonidoDeCasa" },
+
+    {"id":14, "title":"JBL Partybox 710", "description": "Altavoz para fiestas con un potente sonido de 800 W RMS, luces incorporadas y diseño a prueba de salpicaduras.","price":1919999, "image":"https://www.jbl.com.ar/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dw3f59a577/1_JBL_PARTYBOX_710_HERO_0031_x8.jpg?sw=270&sh=330&sm=fit&sfrm=png", "stock":15, "category":"SonidoDeCasa" },
+
+    {"id":15, "title":"Sony MHC-V02//C AR2", "description": "Sistema de audio de alta potencia con tecnología BLUETOOTH® V02","price": 549999, "image":"https://arsonyb2c.vtexassets.com/arquivos/ids/359768/MHC-V02-New--1000x1000-.jpg?v=637889100573730000", "stock":3, "category":"SonidoDeCasa" },
+
+    {"id":16, "title":"Orion HCCA8000.1DSPLX", "description": "MONOBLOCK CLASS-D Amplificador de Competencia 8000 WATTS RMS","price":1499995, "image":"https://orioncaraudio.com/cdn/shop/files/HCCA8000.1D-1.jpg?v=1698391344&width=650", "stock":4, "category":"CarAudio" },
+
+    {"id":17, "title":"Orion HCCA3000.1DSPLX", "description": "MONOBLOCK CLASS-D Amplificador de Competencia 3000 WATTS RMS","price":699995, "image":"https://orioncaraudio.com/cdn/shop/files/HCCA8000.1D-1.jpg?v=1698391344&width=650", "stock":10, "category":"CarAudio" },
+
+    {"id":18, "title":"Orion Medios XPM1054MBF", "description": "Medios Bajos Serie XTR para Competencia, 10 Pulgadas","price":300000, "image":"https://orioncaraudio.com/cdn/shop/files/XPM1054MBF-2.jpg?v=1710318386&width=650", "stock":5, "category":"CarAudio" },
+
+    {"id":19, "title":"Orion SubWoofer HCCA122", "description": "Subwoofer Serie XTR de competencia, 12 Pulgadas DVC 2-Ohm 2500 Watts RMS | 10000 Watts MAX","price":600000, "image":"https://orioncaraudio.com/cdn/shop/files/HCCA122-124.1.jpg?v=1702537722&width=750", "stock":8, "category":"CarAudio" },
+
+    {"id":20, "title":"Orion XTR Series XTR350HP 4.5", "description": "Super Tweeter con Diafragma de aluminio, bobina de voz de 1 pulgada, 125 W RMS, 500 W máximo, crossover incorporado - Alto rendimiento","price":500000, "image":"https://m.media-amazon.com/images/I/61B2L1ymxbL._AC_UY327_FMwebp_QL65_.jpg", "stock":10, "category":"CarAudio" }
+]

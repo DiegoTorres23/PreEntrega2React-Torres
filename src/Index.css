@@ -1,0 +1,68 @@
+body{
+  font-family: "Signika Negative", sans-serif;
+}
+
+.navBarStyle{
+  background-color: black;
+  height: 110px;
+  font-family: "Signika Negative", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  border-bottom: 3px solid rgb(174, 255, 0);
+}
+
+.btnR{
+  background-color: #aeff00;
+  color: black;
+}
+
+.liNavStyle{
+  margin-left: 200px;
+}
+
+
+.navBarText{
+  font-size: 1.4rem;
+  color: white;
+  margin-left: 70px;
+  text-decoration: none;
+}
+
+.navBarText:hover{
+  color:   rgb(174, 255, 0);
+}
+
+.navBarText:active{
+  color:  black;
+}
+
+.navBarTitle{
+  font-size: 2.8rem;
+  color: white;
+}
+
+.navBarTitle:hover{
+  color:  rgb(174, 255, 0);
+}
+
+.navBarTitle:active{
+  color:  black;
+}
+
+.cartStyle{
+  background-color: white;
+}
+
+.cartStyle:hover{
+  background-color:  #aeff00;
+}
+
+.detailPrice{
+  font-size: 1.3rem;
+}
+
+.banner1{
+  width: 100%;
+  height: auto;
+}
