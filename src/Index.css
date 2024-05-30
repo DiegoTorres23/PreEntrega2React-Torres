@@ -12,11 +12,6 @@ body{
   border-bottom: 3px solid rgb(174, 255, 0);
 }
 
-.btnR{
-  background-color: #aeff00;
-  color: black;
-}
-
 .liNavStyle{
   margin-left: 200px;
 }
@@ -25,8 +20,8 @@ body{
 .navBarText{
   font-size: 1.4rem;
   color: white;
-  margin-left: 70px;
   text-decoration: none;
+  padding-left: 70px;
 }
 
 .navBarText:hover{
@@ -37,17 +32,32 @@ body{
   color:  black;
 }
 
-.navBarTitle{
-  font-size: 2.8rem;
+.listStyle{
+  background-color: black;
+  margin-left: 70px;
+}
+
+.textListStyle{
   color: white;
 }
 
-.navBarTitle:hover{
-  color:  rgb(174, 255, 0);
+.textListStyle:hover{
+  background-color:  #aeff00;
 }
 
-.navBarTitle:active{
-  color:  black;
+.dividerStyle{
+  background-color: #aeff00;
+}
+
+.btnNavBar{
+  color: black;
+  background-color: #aeff00;
+}
+
+.deployList{
+  background-color: black;
+  color: white;
+  z-index: 1;
 }
 
 .cartStyle{
@@ -65,4 +75,8 @@ body{
 .banner1{
   width: 100%;
   height: auto;
+}
+
+.loadingStyle{
+  margin-top: 20%;
 }
