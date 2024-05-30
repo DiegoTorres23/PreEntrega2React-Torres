@@ -29,6 +29,16 @@ const Checkout = () =>{
 
 
     const generarOrden= () => {
+        if(nombre==""){
+            return false;
+        } else if (apellido==""){
+            return false;
+        } else if (email==""){
+            return false;
+        } else if (telefono==""){
+            return false;
+        }
+
         const buyer = { nombre:nombre, apellido:apellido, email:email, telefono:telefono};
         const items = cart.map(item=>({id:item.id, title:item.title, price:item.price}))
         const date= new Date();
@@ -73,11 +83,11 @@ const Checkout = () =>{
                     <form className="m-5">
                         <div className="mb-3">
                             <label className="form-label">Nombre</label>
-                            <input type="text" placeholder="Nombre" className="form-control" onInput={(e)=>{setNombre(e.target.value)}} required/>
+                            <input type="text" placeholder="Ingresa tu Nombre" className="form-control" onInput={(e)=>{setNombre(e.target.value)}} required/>
                         </div>
                         <div className="mb-3">
                             <label className="form-label">Apellido</label>
-                            <input type="text" placeholder="Apellido" className="form-control" onInput={(e)=>{setApellido(e.target.value)}} required/>
+                            <input type="text" placeholder="Ingresa tu Apellido" className="form-control" onInput={(e)=>{setApellido(e.target.value)}} required/>
                         </div>
                         <div className="mb-3">
                             <label className="form-label" >Email</label>
@@ -85,7 +95,7 @@ const Checkout = () =>{
                         </div>
                         <div className="mb-3">
                             <label className="form-label">Telefono</label>
-                            <input type="number" placeholder="Telefono" className="form-control" onInput={(e)=>{setTelefono(e.target.value)}} required/>
+                            <input type="number" placeholder="Numero de Telefono" className="form-control" onInput={(e)=>{setTelefono(e.target.value)}} required/>
                         </div>
                         <button type="button" className="btn text-white bg-black rounded-2" onClick={generarOrden}>Generar Orden</button>
                         </form>

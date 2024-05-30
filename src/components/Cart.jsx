@@ -35,8 +35,8 @@ const Cart =()=>{
                         {cart.map(item =>(
                             <tr key={item.id}>
                                 <td><img src={item.image} alt={item.title} width={125} /> </td>
-                                <td className="align-middle text-center">{item.title}</td>
-                                <td className="align-middle text-center">{item.price} </td>
+                                <td className="align-middle text-start">{item.title}</td>
+                                <td className="align-middle text-center">${item.price} </td>
                                 <td className="align-middle text-center">x{item.contador} </td>
                                 <td className="align-middle text-end" ><a href="#"> <img src={trash3} width={25} title="Eliminar Producto" onClick={()=>{removeItem(item.id)}} /></a></td>
                             </tr>
